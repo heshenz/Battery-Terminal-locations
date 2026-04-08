@@ -1,0 +1,279 @@
+title,status,size_mw,size_mwh,year_operational,technology,owner,categories,latitude,longitude,state
+Hornsdale,Operating,150.0,194.0,2017,Tesla,Neoen,1,-33.23704450029045,138.59014310751712,SA
+Dalrymple North,Operating,30.0,8.0,2018,Samsung,ElectraNet,1,-33.86631624171673,137.80949082425056,SA
+Lake Bonney ,Operating,25.0,52.0,2019,Tesla,Infigen,1,-37.55317045265356,140.51688285520652,SA
+Gannawarra,Operating,25.0,50.0,2019,Tesla,Edify,1,-35.605076659923874,143.8136855536666,VIC
+Ballarat,Operating,30.0,30.0,2019,Fluence,Ausnet,1,-37.75487335269537,143.91167432809252,VIC
+Mt Newman,Operating,30.0,11.4,2018,Kokam,Alinta,1,-23.3,119.73,WA
+Lincoln Gap,Operating,10.0,10.0,2021,Fluence,Nexif,1,-33.04,136.39,SA
+Wandoan South,Operating,100.0,150.0,2021,Doosan ,Vena Energy,1,-27.11862943249476,120.82667400147267,WA
+Victoria Big Battery,Operating,300.0,450.0,2021,Tesla Megapack,Neoen,1,-37.802135337643634,144.22341592769553,VIC
+Bulgana,Operating,20.0,34.0,2021,Tesla,Neoen,1,-37.37437848536467,142.6347783061956,VIC
+Wallgrove,Operating,50.0,75.0,2021,Tesla Megapack,Transgrid,1,-33.87818285890299,150.73910456134496,NSW
+New England,Construction,50.0,60.0,2022,Energy Vault,UPC/AC,3,-30.52,151.49,NSW
+Playford Utility Battery,Announced,100.0,100.0,2022,,GFG,2,-32.79,137.77,SA
+Torrens Island,Operating,250.0,250.0,2023,N/A,AGL,1,-34.77599708261246,138.48165234329915,SA
+Capital Battery,Operating,50.0,100.0,2023,Doosan,Neoen,1,-35.11938925514724,149.07729165627484,ACT
+Queanbeyan,Operating,10.0,20.0,2022,Ingeteam,GPG,1,-35.35,149.23,NSW
+Darwin,Construction,35.0,18.0,2022,Hitachi Energy,Tender,3,-19.830308728472644,132.98283893555092,NT
+Sapphire,Announced,30.0,30.0,2022,,CWP,2,-30.02346916968567,134.88282261070884,SA
+Loy Yang,Announced,200.0,800.0,,,AGL,2,-38.23,146.47,VIC
+Wooreen,Construction,350.0,1400.0,2026,,EnergyAustralia,3,-38.23,146.52,VIC
+Sunraysia,Announced,50.0,100.0,2023,,Maoneng,2,-34.64,143.56,NSW
+NSW diverse,Announced,150.0,300.0,2023,,Maoneng,2,-31.95913940740442,146.90576032138154,NSW
+Liddell,Construction,150.0,150.0,2025,,AGL,3,-32.35,150.92,NSW
+Eraring,Operating,700.0,2800.0,2022,Wartsila,Origin,1,-32.99476540235215,151.42111251937416,NSW
+Wagerup,Construction,100.0,,2025,Shanghai Electric,Alinta,3,-27.17493602786508,121.1420387983708,WA
+Kwinana,Operating,100.0,200.0,2022,CATL,Synergy,1,-32.19327121129591,115.78780048358263,WA
+Kurri Kurri,Announced,1200.0,,,,CEP Energy,2,-32.83,151.47,NSW
+Sun Cable,Announced,,,,,Sun Cable,2,-12.47,130.97,NT
+Broken Hill,Operating,50.0,,2024,Fluence,AGL,1,-31.948660911666217,141.5132997861925,NSW
+Western Downs,Operating,1000.0,,2025,Tesla,Neoen,1,-27.11,150.86,QLD
+Wallerawang 9,Proposed,500.0,,2024,Lithium ion,Neoen,4,-26.977945638841923,121.1531958024599,WA
+Crystal Brook,Proposed,130.0,400.0,2023,,Neoen,4,-33.35,138.2,SA
+Goyder South,Proposed,800.0,1800.0,,,Neoen,4,-33.62,138.97,SA
+Mortlake,Construction,300.0,,2026,Fluence,Origin Energy,3,-38.08,142.81,VIC
+Yoorndoo Ilga ,Proposed,250.0,500.0,,,AMP Energy,4,-34.1,139.1,SA
+Robertstown,Proposed,250.0,,,,AMP Energy,4,-34.05,139.09,SA
+Riverina,Operating,125.0,260.0,2023,N/A,Edify,1,-34.77004178472805,145.80877651106061,NSW
+Steel River,Proposed,28.0,56.0,,N/A,Edify,4,-34.78,145.77,NSW
+Chichester,Operating,42.0,13.0,2023,N/A,Fortescue Metals,11,-22.05,117.51,WA
+Darlington Point,Operating,336.0,,2021,N/A,Edify,11,-34.43175468327367,145.73668521492715,NSW
+Tamworth ,Proposed,19.0,19.0,,N/A?,Tamworth Solar ,4,-31.09,150.93,NSW
+Banana Range,Proposed,50.0,50.0,,N/A,EDF Renewables,4,-25.24,152.28,QLD
+Frasers,Proposed,20.0,40.0,,N/A,South Energy,4,-28.81,153.27,NSW
+Wattle Point,Operating,86.0,,2018,Samsung,ElectraNet,11,-35.153246347208544,137.6614557535362,SA
+Kaban,Operating,100.0,,2023,Vestas,Neoen,11,-17.40415005654466,145.47198770723244,QLD
+ACT hydrogen refuelling station,Operating,50.0,100.0,2023,Nel electrolyser,Neoen,11,-35.344419197055814,149.25699897724746,ACT
+Christmas Creek Renewable Hydrogen Mobility,Announced,42.0,13.0,2023,N/A,Fortescue Metals,14,-26.974726204782964,120.94142796039455,WA
+Tarong,Construction,300.0,600.0,2025,N/A,Stanwell Corp,3,-26.83268657140504,151.66922923497066,QLD
+Bouldercombe,Operating,50.0,100.0,,Tesla Megapack.,Genex,1,-23.701264543251256,150.41028448066723,QLD
+Great Western,Construction,330.0,3500.0,,N/A,Neoen,3,-37.14,143.02,VIC
+Merredin,Operating,100.0,,2020,Risen,Sun Energy,11,-31.655342633676867,118.19369528785127,WA
+Numurkah,Operating,112.0,,2019,N/A,Neoen,11,-36.0992994981085,145.59126918043034,VIC
+Kiamal,Operating,200.0,,2020,Single axis tracking,Total Eren,11,-35.053508202396344,142.1432057093692,VIC
+Beryl,Operating,87.0,,2019,N/A,New Energy Solar,11,-32.43302529364688,149.59416500991355,NSW
+Kennedy,Operating,15.0,,2022,N/A,Windlab,11,-19.66337682677575,146.965317639117,QLD
+Kidston,Operating,50.0,,2020,N/A,Genex,11,-18.699512687892074,143.97452548841204,QLD
+Katherine,Operating,25.0,,2024,N/A,ENI,11,-14.46,132.26,NT
+Snowtown,Operating,101.0,,2008,Suzlon,Tilt,11,-33.711787223191294,138.28658906933623,SA
+Wambo,Proposed,50.0,200.0,,N/A,Renewable Energy Partners and Cubico.,4,-27.084174385603546,120.87629827708963,WA
+Ulinda Park,Operating,350.0,78.0,,Powiń,Akaysha Energy,1,-26.85,150.73,QLD
+Oven Mountain,Proposed,600.0,,,,OMPS and Alinta,12,-19.934548853785174,132.85700186893544,NT
+Muja ,Proposed,,,,,Seven,12,-33.4,116.16,WA
+Big-T,Announced,400.0,,2024,,BE Power,14,-27.48,152.35,QLD
+Lake Cethana,Proposed,750.0,,2031,,Hydro Tasmania,12,-41.6,146.11,TAS
+Gudai Darri,Operating,34.0,,2021,N/A,Rio Tinto,11,-22.630265799844793,117.09580316092031,WA
+Ord River,Proposed,250.0,,2023,Pumped h ydro,Pacific Hydro,12,-15.77,128.74,WA
+Buronga,Proposed,250.0,,2026,Flow Battery,Energy Estate,4,-34.15,142.19,NSW
+Hume,Proposed,20.0,40.0,,,Meridian Energy,4,-36.0,148.25,NSW
+Latrobe Valley,Operating,200.0,800.0,,Fluence,Tilt,1,-38.18,146.38,VIC
+Agnew Gold Mine,Operating,18.0,,2020,Goldwind,EDL,11,-28.2744157300738,120.35685133663166,WA
+Tom Price,Construction,45.0,12.0,2022,n/a,Rio Tinto,3,-22.69,117.79,WA
+Gould Creek,Proposed,225.0,450.0,2023,n/a,Maoneng,4,-34.42,138.72,SA
+Port Hedland,Operating,35.0,36.7,2024,UGL,Alinta,1,-20.30054122039307,118.4406194220499,WA
+Mornington,Announced,240.0,580.0,2029,n/a,Verdant,2,-38.26,145.19,VIC
+Childers,Proposed,25.0,50.0,2022,n/a,Elliott Green Power,4,-25.24,152.28,QLD
+Armidale,Proposed,150.0,300.0,2022,n/a,Maoneng,4,-30.51,151.67,NSW
+Lismore,Proposed,100.0,200.0,2026,n/a,Maoneng,4,-28.81,153.27,NSW
+Melbourne Renewable Energy Hub,Operating,600.0,1600.0,2025,Tesla,"Equis Development, SEC.",1,-37.08269494242453,143.9504405809242,VIC
+Deer Park ,Announced,275.0,100.0,2027,n/a,Akaysha Energy,2,-37.78,144.66,VIC
+Hazelwood,Operating,150.0,150.0,2023,Fluence,Engie and Eku Energy.,1,-38.30265306728521,146.54975341759604,VIC
+Blyth,Operating,237.5,477.0,2025,"CATL, Power Electronics",Neoen,1,-33.91514240714533,138.39435081086657,SA
+Uaroo Renewable Energy Hub,Proposed,100.0,100.0,2030,n/a,Fortescue Future Industries,4,-26.94459904767825,121.00435787396226,WA
+Kogan Renewable Hydrogen Project,Unknown,,,2022,Renewable hydrogen electrolyser and fuel cell,CS Energy,,-27.128950057773242,120.88245842548264,WA
+Waratah Super Battery,Operating,850.0,1680.0,2025,Powin,Akaysha Energy,1,-33.57076941838583,151.36194149826045,NSW
+Chinchilla,Operating,100.0,200.0,2024,Tesla Megapack,CS Energy,1,-26.83200821976141,150.79644262737216,QLD
+Collie Battery,Proposed,800.0,800.0,2024,N/A,Sunshot Energy,4,-33.37,116.16,WA
+Golden Plains,Construction,150.0,600.0,2027,Tesla,"TAG Energy, West wind",3,-37.93,143.9,VIC
+Merriwa Energy Hub,Unknown,400.0,1600.0,2025,N/A,Maoneng,,-26.998966927080563,120.82471567996394,WA
+Greenbank,Operating,200.0,400.0,2024,N/A,CS Energy,1,-27.64301797037704,152.80284334582936,QLD
+Tailem Bend hybrid,Operating,41.5,41.5,2024,Doosan,Vena Energy,1,-35.44182628152201,139.56595151591264,SA
+Tailem Bend 2,Operating,87.0,,2024,N/A,Vena Energy,11,-35.4322628212669,139.46136078221028,SA
+Bulli Creek,Announced,400.0,1600.0,2025,N/A,Genex Power,2,-27.5,151.83,QLD
+Orana,Construction,415.0,1660.0,2025,N/A,BlackRock/Akaysha Energy,3,-31.8,148.7,NSW
+Palmerston,Proposed,100.0,200.0,,N/A,BlackRock/Akaysha Energy,4,-41.45,147.17,TAS
+Dugald River,Operating,88.0,,2023,N/A,APA,11,-21.229263143000697,139.87370405175972,QLD
+Gruyere Micro Grid,Operating,13.2,,2022,N/A,APA,11,-29.17,121.24,WA
+Latitude solar battery,Operating,5.0,11.0,2017,Tesla,Byron Bay Solar Farm Holdings,1,-34.16,143.58,NSW
+Solomon,Operating,16.0,5.0,2024,N/A,Fortescue Metals,1,-21.029986968338033,119.70895078722177,WA
+Iron Bridge,Operating,26.0,8.0,2023,N/A,Fortescue,1,-21.306070580843443,119.52523004341107,WA
+Cunderdin,Operating,55.0,220.0,2024,Sungrow,Naturgy,1,-31.560518477614306,117.44969176191914,WA
+Koorangie Energy Storage System,Operating,185.0,370.0,2025,Tesla Megapack,Sostoneo,1,-35.79,144.15,VIC
+Terang,Construction,100.0,200.0,2025,Lithium-ion,FRV,3,-38.25,142.92,VIC
+Swanbank,Construction,250.0,500.0,2024,Lithium-ion,CleanCo,3,-27.62715526898222,152.75797733368069,QLD
+Stanwell,Construction,300.0,1200.0,2027,Tesla Megapack,Stanwell,3,-23.84,150.41,QLD
+Mount Piper Big Battery,Announced,500.0,2000.0,2028,Not specified,EnergyAustralia,2,-20.121498929904433,132.9205233655552,NT
+Bulabul Battery Energy Storage System,Construction,400.0,1000.0,2027,Fluence,Ampyr Energy JV,3,-27.5,151.5,QLD
+Uungula,Announced,150.0,300.0,2026,Not specified,Squadron Energy,2,-31.5,147.5,NSW
+Mount Fox,Announced,300.0,600.0,2025,Not specified,TagEnergy,2,-19.827782627235784,133.18092448804666,NT
+Gnarwarre,Announced,250.0,500.0,2025,Not specified,FRV,2,-27.154794748506383,120.87969020929344,WA
+Yabulu,Proposed,200.0,400.0,2024,Not specified,Ace Energy,4,-19.25,146.77,QLD
+Rangebank,Operating,200.0,400.0,2024,Fluence,"Shell, Eku Energy.",1,-38.18182601677821,145.10063779865197,VIC
+Williamsdale,Construction,250.0,500.0,2026,Tesla,Eku Energy.,3,-35.72,149.37,ACT
+Tungkillo,Proposed,270.0,1480.0,2025,N/A,RES,4,-34.69,139.18,SA
+Dinawan,Construction,300.0,1200.0,2029,N/A,Spark Renewables,3,-26.914956246911604,120.81712435941573,WA
+Mallee,Proposed,350.0,700.0,2026,N/A,Spark Renewables,4,-35.12,142.46,VIC
+Wattle Creek,Proposed,800.0,1600.0,2027,N/A,Spark Renewables,4,-27.10820895775816,120.90692714174547,WA
+Mates Gully,Proposed,150.0,300.0,2027,N/A,Spark Renewables,4,-31.52,148.51,NSW
+Limondale,Announced,50.0,400.0,2025,N/A,RWE,2,-34.2,142.35,NSW
+Muchea ,Construction,150.0,615.0,2027,Unspecified,Neoen,3,-31.58,115.96,WA
+Fulham,Construction,80.0,100.0,2025,SMA,Octopus,3,-38.18,147.18,VIC
+Derby Battery,Construction,100.0,100.0,2024,N/A,Sungrow,3,-17.31,123.63,WA
+SEC Renewable Energy Hub,Construction,100.0,200.0,2027,Energy Vault.,SEC.,3,-26.82219029986793,120.8082600084,WA
+Tomago,Construction,500.0,2000.0,2027,Fluence,AGL,3,-32.84,151.64,NSW
+Elaine,Construction,315.0,1244.0,,Tesla,Akaysha Energy,3,-37.85,143.96,VIC
+Blind Creek,Construction,243.0,486.0,2027,"Wartsila, SMA","Octopus Australia, CEFC",3,-38.21,146.35,VIC
+Brinkworth,Proposed,300.0,1200.0,,,Akaysha Energy,4,-33.68,138.34,SA
+Mobilong,Proposed,200.0,800.0,,,Akaysha Energy,4,-35.13,139.28,SA
+Brendale,Operating,205.0,410.0,2025,Tesla Megapack,Akaysha Energy,1,-27.31,152.98,QLD
+Marulan,Announced,150.0,600.0,,,Terrain Solar,2,-34.72,150.04,NSW
+Templers,Operating,138.0,330.0,2025,Sungrow,Zen Energy,1,-34.45,138.78,SA
+Collie BESS,Operating,500.0,2000.0,2025,CATL,Synergy,1,-33.205210186245644,116.25992953156049,WA
+Blackstone,Announced,500.0,1000.0,2025,Lithium-ion,Octopus,2,-26.08,142.03,QLD
+Smithfield,Operating,65.0,130.0,2025,,Iberdrola,1,-16.831498711308964,145.82912641967835,QLD
+Summerfield,Construction,240.0,480.0,2027,Canadian Solar,CIP,3,-37.08,143.95,VIC
+Mugga Lane,Construction,12.0,24.0,2024,Tesla Megapack,LGI,3,-35.41,149.11,ACT
+Bennetts Creek,Construction,100.0,223.0,2027,Wartsila.,Flow Power,3,-38.22,146.4,VIC
+Yanco Delta,Proposed,400.0,800.0,2027,N/A,Origin Energy,4,-35.28,145.58,NSW
+Koolunga,Announced,200.0,800.0,2028,N/A,Equis,2,-33.38,138.36,SA
+Calala,Construction,250.0,500.0,2027,Tesla,Equis Developments,3,-31.15,150.95,NSW
+Lower Wonga,Announced,200.0,800.0,2027,N/A,Equis Developments,2,-26.15,152.67,QLD
+Myrtle Creek ,Construction,275.0,2200.0,2026,LFP,Ark Energy,3,-30.5,151.7,NSW
+Goulburn River,Construction,49.0,392.0,2026,,Lightsource Development,3,-32.23,150.3,NSW
+Wurdong,Announced,400.0,1600.0,,,Akaysha Energy,2,-23.9,151.26,QLD
+Hallett,Construction,50.0,245.0,2027,NHOA,EnergyAustralia,3,-33.48,138.93,SA
+Kwinana 2,Operating,200.0,900.0,2025,CATL,Synergy,1,-32.14555853050392,115.62573271244042,WA
+Bellevue Gold,Operating,15.0,33.0,2025,,Bellevue Gold,1,-28.4710356596902,120.3886995431039,WA
+Supernode,Construction,250.0,500.0,2025,Tesla Megapack,Quinbrook,3,-33.89,150.95,NSW
+West Wyalong,Announced,50.0,90.0,2026,N/A,Lightsource bp.,2,-33.93,147.21,NSW
+Merredin BESS,Construction,,,,,,3,-31.52409238975722,118.11414614826775,WA
+Punchs Creek,Construction,400.0,600.0,2028,N/A,EDPR,3,-31.92,149.5,NSW
+Dedarang,Proposed,200.0,400.0,2027,N/A,Mint Renewables,4,-36.73,145.22,VIC
+Bendemeer,Announced,,,2028,N/A,Athena Renewables,2,-30.88,151.15,NSW
+Territory,Proposed,300.0,600.0,2028,N/A,Neoen,4,-12.5,131.0,NT
+Moorabool,Proposed,300.0,600.0,2028,N/A,Neoen,4,-37.92,144.07,VIC
+Great Lakes,Proposed,280.0,560.0,2028,N/A,Neoen,4,-32.2,152.2,NSW
+Darling Downs,Announced,500.0,2000.0,2027,,Origin Energy,2,-27.5,151.0,QLD
+Templers Creek,Proposed,200.0,800.0,,,Origin Energy,4,-34.45,138.78,SA
+Wellington Town,Proposed,50.0,400.0,2027,N/A,RWE,4,-32.56,148.94,NSW
+Kathleen Valley,Operating,17.0,19.0,2024,N/A,Liontown Resources,1,-27.948861586263185,120.8144429258359,WA
+Clements Gap,Construction,60.0,130.0,2026,N/A,Pacific Blue,3,-20.118409731180716,132.99821227878394,NT
+Quorn Park Hybrid,Construction,20.0,40.0,2026,N/A,Enel Green Power Australia.,3,-32.34,138.03,SA
+Cobbora,Announced,400.0,1600.0,,,Pacific Partnerships.,2,-32.78,149.37,NSW
+Hughes Road,Announced,200.0,800.0,,,Bay-Wa,2,-34.52,147.18,NSW
+Wimmera Plains,Announced,100.0,400.0,,,Bay-Wa,2,-36.53,142.42,VIC
+Gin Gin,Proposed,500.0,400.0,,,Iberdrola,4,-25.0,151.96,QLD
+Kingswood,Construction,100.0,1080.0,,,Iberdrola,3,-33.75,150.71,NSW
+Mortlake Energy Hub,Announced,300.0,600.0,2026,,BrightNight,2,-38.08,142.81,VIC
+Tallawang,Announced,500.0,1000.0,,,Enel Green Power,2,-27.11520848722491,121.01341364389967,WA
+Waroona,Announced,80.0,320.0,,,Frontier Energy,2,-26.990099763856183,120.8129074398419,WA
+Limestone Coast,Construction,250.0,750.0,2026,Trina,Pacific Green.,3,-37.85,140.79,SA
+Springvale Energy Hub,Construction,115.0,230.0,2027,,Progress Power.,3,-37.95,145.15,VIC
+Broadsound,Construction,180.0,360.0,2026,,Iberdrola.,3,-22.5,149.5,QLD
+Kemerton,Announced,660.0,640.0,,,Trina Solar,2,-33.35,115.79,WA
+Portland Energy Park,Announced,,500.0,,,Pacific Green,2,-38.34,141.6,VIC
+Pottinger Energy Park,Announced,400.0,600.0,,,Someva Renewables and AGL Energy.,2,-33.78,149.3,NSW
+The Plains,Announced,400.0,600.0,,,Engie,2,-34.78,142.5,VIC
+Goyder North,Construction,226.0,866.0,2029,,Neoen,3,-33.52,138.73,SA
+Tramway Road,Announced,300.0,1200.0,2026,N/A,Eku Energy.,2,-26.948430428697016,120.94249148990299,WA
+Solar River,Construction,170.0,653.0,2026,,Zen Energy,3,-34.04,138.78,SA
+Conargo,Proposed,150.0,1200.0,2029,,Squadron Energy,4,-35.28,145.14,NSW
+Maison Dieu,Announced,40.0,80.0,2027,,Terrain Solar,2,-31.07,151.6,NSW
+Capricorn,Announced,300.0,200.0,,,Potentia Energy,2,-23.38,150.51,QLD
+Barwon ,Construction,250.0,500.0,2027,,Elgin Energy,3,-38.14,144.35,VIC
+Glanmire,Construction,52.0,104.0,2027,,Elgin Energy,3,-30.46,152.52,NSW
+Barnawartha,Construction,64.0,148.0,2027,,Petronas,3,-26.863132453956435,120.95613718852746,WA
+Junction Rivers,Construction,250.0,500.0,2027,,Windlab,3,-28.5,152.0,QLD
+Majors Creek ,Construction,150.0,600.0,2027,,Edify Energy,3,-35.56,149.52,NSW
+Emeroo,Announced,200.0,900.0,2027,N/A,Potentia Energy,2,-32.3,148.8,NSW
+Clare,Proposed,100.0,200.0,,,Potentia Energy,4,-33.83,138.61,SA
+Samsung Romani,Announced,350.0,400.0,,Samsung,Samsung,2,-29.878645582654496,135.07226130613554,SA
+Cooma,Proposed,80.0,320.0,,,Acen Renewables,4,-36.24,148.71,NSW
+Deargee,Announced,700.0,2800.0,,,Acen Renewables,2,-31.5,150.98,NSW
+West Mokoan,Construction,160.0,560.0,2027,,Lightsource BP,3,-36.44,145.97,VIC
+Ganymirra,Construction,150.0,600.0,2027,,Edify Energy,3,-36.51,145.42,VIC
+Swallow Tail,Announced,375.0,1500.0,2027,,Ampyr Energy,2,-26.95977260639384,121.09990193669924,WA
+Wunghnu,Operating,76.0,,2024,N/A,Lightsource bp,11,-36.26,145.46,VIC
+Glenellen,Construction,,,2025,N/A,GPG,13,-36.82,142.39,VIC
+Horsham,Construction,118.0,,2025,N/A,SEC,13,-36.71,142.21,VIC
+Wellington North,Operating,112.0,,2024,N/A,:Lightsource bp,11,-32.59,149.04,NSW
+Derby,Construction,95.0,,2025,N/A,Sungrow,13,-36.5,146.3,VIC
+Quorn Park,Construction,80.0,,2026,N/A,Potentia Energy,13,-32.34,138.03,SA
+Meadow Creek,Announced,250.0,1000.0,,Energy Vault,Meadow Creek Solar,2,-37.5,144.9,VIC
+Cellars Hill,Announced,600.0,2400.0,,N/A,Cellars Hill Wind Farm,2,-36.9,140.6,SA
+Bremer,Announced,850.0,400.0,,N/A,Libra Energy,2,-35.18,139.28,SA
+St Ives,Construction,42.0,,2026,Goldwind,Goldfields,13,-30.47,121.36,WA
+Baranduda,Announced,400.0,1800.0,,Catl,Birdwood Energy,2,-36.15,146.94,VIC
+Armidale East BESS,Construction,315.0,1440.0,,Not yet announced,FRV Australia,3,-30.52,151.9,NSW
+Sunny Corner,Proposed,500.0,2000.0,,Not yet announced,"Mainstream, Someva",4,-33.15,149.63,NSW
+Griffith,Construction,100.0,800.0,,Not yet announced,Eku Energy,3,-34.29,146.04,NSW
+Stoney Creek ,Construction,125.0,1000.0,2027,Energy Vault,Enervest,3,-36.59,146.48,VIC
+Phoenix,Construction,800.0,1200.0,2031,,Acen Renewables.,13,-32.72,151.59,NSW
+Barn Hill,Announced,270.0,1090.0,2028,N/A,AGL Energy.,2,-35.05,147.53,NSW
+Bell Bay,Announced,100.0,400.0,2027,N/A,Equis Energy.,2,-41.15,146.87,TAS
+Bundey,Construction,300.0,1200.0,2029,N/A,Genaspi Energy Group,3,-33.13,138.7,SA
+Bungaban,Announced,350.0,1400.0,2027,N/A,Windland.,2,-26.85,150.29,QLD
+Theodore,Announced,240.0,960.0,2029,N/A,RWE,2,-24.92,150.08,QLD
+Gara,Announced,400.0,1760.0,2026,N/A,ACEnergy,2,-30.61,151.65,NSW
+Denman,Announced,400.0,800.0,2028,N/A,Metlen Group,2,-32.39,150.69,NSW
+Maryvale,Construction,172.0,408.0,2026,Catl,Gentari,3,-38.14,146.34,VIC
+Smoky Creek and Guthrie's Gap,Announced,600.0,400.0,2028,,Edify Energy,2,-28.5,152.0,QLD
+Valley of the Winds,Announced,320.0,640.0,2026,,Acen Renewables,2,-30.01,141.53,NSW
+Boddington,Construction,324.0,200.0,2027,,PGS,3,-32.8,116.47,WA
+Aurora,Announced,140.0,2800.0,2029,,"Vast Solar, 1414",2,-35.12,140.15,SA
+Bookham,Announced,250.0,1000.0,2027,Not specified,Squadron Energy,2,-34.84,148.69,NSW
+Burroway,Announced,100.0,400.0,,Not specified,Edify Energy,2,-27.114940030443503,120.89029896010257,WA
+Tropicana ,Operating,13.0,4.0,2025,n/a,"Ashanti, Pacific Energy.",1,-30.40668657718144,122.45419178554334,WA
+Peninsula,Announced,80.0,160.0,,Not specified,Edify Energy,2,-38.26,145.19,VIC
+Pleystowe,Announced,200.0,800.0,,Not specified,Trina Solar,2,-21.06,148.79,QLD
+Mccullys Gap,Proposed,300.0,1600.0,2028,Not specified,BW ESS,4,-32.29,150.49,NSW
+Bannaby,Construction,233.0,2676.0,,Not specified,BW BESS,3,-34.6,149.85,NSW
+Mannum,Construction,100.0,200.0,2025,,Epic Energy,3,-34.92,139.32,SA
+Blue Grass,Construction,148.0,296.0,2025,,X-Elio,3,-33.7,138.82,SA
+South Coree,Announced,80.0,320.0,,,Samsung,2,-30.12,145.66,NSW
+Joel Joel,Announced,250.0,1000.0,2027,N/A,ACEnergy,2,-36.59,147.6,NSW
+Pottinger ,Construction,832.0,,,,Someva Renewables and AGL Energy.,13,-36.25,148.11,NSW
+Eurimbula,Construction,666.0,1332.0,2027,SMA,Elements Green,3,-24.01,151.58,QLD
+Reeves Plains Energy Hub,Construction,500.0,2000.0,2028,CATL,Alinta Energy,3,-34.3,138.62,SA
+Tarrone,Announced,200.0,400.0,2027,,GPG,2,-38.29,142.34,VIC
+Tall Tree,Announced,200.0,800.0,2027,,Acciona,2,-33.5,148.8,NSW
+Culcairn,Announced,350.0,904.0,2027,,Neoen,2,-35.67,147.04,NSW
+Kiar,Announced,1000.0,4000.0,2027,,Bid Energy,2,-30.5,151.7,NSW
+Canyonleigh,Announced,300.0,1200.0,2027,Not specified,X-Elio,2,-34.59,150.18,NSW
+Nowingi,Announced,300.0,2400.0,2027,Not specified,Edify Energy,2,-34.98,142.39,VIC
+Summerville,Announced,90.0,3600.0,2027,Not specified,OX2,2,-36.02,146.55,VIC
+Sunshine State,Announced,128.0,256.0,2029,Not specified,OX2,2,-25.0,151.99,QLD
+Bowmans Creek,Construction,250.0,2414.0,2028,n/a,Ark Energy,3,-32.21,150.88,NSW
+Teebar,Construction,400.0,1600.0,,n/a,Atmos Renewables,3,-24.01,151.58,QLD
+Heywood,Announced,300.0,1200.0,2027,n/a,Atmos Renewables,2,-38.13,141.63,VIC
+Mulwala,Construction,20.0,40.0,2026,n/a,European Energy,3,-26.951090447489378,121.10359463537183,WA
+Forest Glen,Construction,25.0,25.0,2026,n/a,X-Elio,3,-26.69,152.96,QLD
+Port Latta,Construction,21.0,,2026,N/A,Aquila Group,13,-40.87,145.28,TAS
+Kerang,Announced,103.0,206.0,,n/a,Banpu,2,-35.73,143.92,VIC
+Kerang Solar Hybrid,Announced,55.0,110.0,2027,n/a,Ace Power,2,-35.73,143.92,VIC
+Blanche,Announced,125.0,500.0,2027,N/A,Potentia Energy,2,-37.43,140.84,SA
+Harrogate,Announced,270.0,1080.0,2028,N/A,Potentia Energy,2,-34.94,139.13,SA
+Exmouth Power Project,Construction,10.0,49.0,2026,N/A,Pacific Energy,3,-21.93,114.12,WA
+Belah,Announced,400.0,1600.0,2028,N/A,LP Renewables and Eku Energy,2,-31.22,148.47,NSW
+Jundee,Operating,12.0,12.0,2025,n/a,Pacific Energy.,1,-26.522441736682342,120.82893262224006,WA
+Mt Weld,Construction,12.0,12.0,2025,n/a,Pacific Energy.,3,-28.24,122.09,WA
+Middlebrook,Construction,320.0,813.0,2029,N/A,TotalEnergies.,3,-32.64,149.8,NSW
+Corop,Construction,290.0,704.0,2029,N/A,BNRG Leeson.,3,-36.38,144.84,VIC
+Merino,Construction,450.0,800.0,2029,N/A,EDPR,3,-37.73,141.53,VIC
+Gawara Baya,Construction,104.0,217.0,2029,N/A,Windlab.,3,-26.923118866077115,121.10937136658818,WA
+Pelican Point,Construction,200.0,400.0,2027,Sungrow,Engie.,3,-20.068218150450527,132.86642423750757,NT
+Eliwana,Announced,120.0,120.0,,,Fortescue,2,-27.038756109452176,121.11158734275554,WA
+North Star Junction,Construction,50.0,250.0,,,Fortescue,3,-32.88,149.64,NSW
+Tailem Bend 3,Construction,41.5,41.5,2027,Canadian Solar e-Storage,Vena Energy,3,-35.33136350871432,139.5318748428394,SA
+Kalgoorlie Regional Renewable Energy Project,Announced,130.0,300.0,2027,n/a,Zenith Energy,2,-26.937292632441874,120.82668094065818,WA
+Tully,Announced,200.0,800.0,2028,N/A,RWE,2,-17.93,145.93,QLD
+Meering West,Announced,500.0,,2028,N/A,Meering West-Virya Energy.,2,-36.7,143.44,VIC
+Paterson,Announced,150.0,600.0,2027,N/A,TagEnergy,2,-32.62,151.6,NSW
+Strontian,Announced,333.0,364.0,2028,n/a,Grupo Cobra,2,-19.84418037352971,132.80332251538974,NT
+Carmody's Hill,Construction,257.0,,2027,,Aula Energy,13,-33.58,148.51,NSW
+Hazelwood East,Announced,500.0,,2028,Voyager Renewables,Voyager Renewables,2,-38.07325883208127,146.3537153160737,VIC
+Ebor,Construction,100.0,870.0,2028,n/a,"Bridge, Energy Vault",3,-30.41,152.38,NSW
+Vales Point,Announced,400.0,800.0,2028,Samsung,Delta Energy,2,-19.945017535386864,133.05033722271884,NT
+Dunmore,Announced,150.0,300.0,2029,Lithium-ion,Octopus,2,-33.37,150.61,NSW
+Hanworth,Announced,1200.0,4800.0,2029,Lithium-ion,Octopus,2,-32.45,149.87,NSW
