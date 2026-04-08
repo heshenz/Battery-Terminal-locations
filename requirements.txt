@@ -1,0 +1,10 @@
+# Python dependencies for Australian Battery Storage & Terminal Stations Project
+
+pandas>=1.5.0
+
+# Installation:
+# pip install -r requirements.txt
+# or
+# pip install pandas
+
+# Note: No folium required - Leaflet.js loads from CDN in the HTML

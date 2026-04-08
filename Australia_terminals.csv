@@ -1,0 +1,112 @@
+name,latitude,longitude,state,locality,source
+Canberra Terminal,-35.2809,149.13,Australian Capital Territory,Canberra,Known
+Liddell,-32.3712280079999,150.975044007,New South Wales,Muswellbrook,Geoscience Australia
+Moree Solar,-29.5727628189999,149.860739678,New South Wales,Moree,Geoscience Australia
+Newcastle Terminal,-32.9283,151.7817,New South Wales,Newcastle,Known
+Sydney Terminal,-33.8688,151.2093,New South Wales,Sydney,Known
+Tallawarra,-34.5222346959999,150.807159121,New South Wales,Yallah,Geoscience Australia
+Upper Tumut,-35.910894083,148.386042591,New South Wales,Cabramurra,Geoscience Australia
+Wollongong Terminal,-34.4249,150.8931,New South Wales,Wollongong,Known
+Alice Springs Terminal,-23.698,133.8807,Northern Territory,Alice Springs,Known
+Darwin Terminal,-12.4628,130.8417,Northern Territory,Darwin,Known
+Bowen North,-20.0178178649999,148.167520648,Queensland,Bowen,Geoscience Australia
+Brisbane Terminal,-27.4698,153.0251,Queensland,Brisbane,Known
+Cairns Terminal,-16.9462411229999,145.755070207,Queensland,Portsmith,Geoscience Australia
+Gladstone,-23.849778586,151.216681575,Queensland,Callemondah,Geoscience Australia
+Millmerran,-27.965235161,151.274319079,Queensland,Clontarf (Toowoomba),Geoscience Australia
+Oakey,-27.4195918889999,151.679513829,Queensland,Oakey,Geoscience Australia
+Swanbank A,-27.658245425,152.812013533,Queensland,Swanbank,Geoscience Australia
+Swanbank E,-27.6551516599999,152.81894569,Queensland,Swanbank,Geoscience Australia
+Townsville Terminal,-19.259,146.8169,Queensland,Townsville,Known
+Adelaide Terminal,-34.9285,138.6007,South Australia,Adelaide,Known
+Penola West,-37.4570460899999,140.781714292,South Australia,Monbulla,Geoscience Australia
+Port Augusta Terminal,-32.493,137.772,South Australia,Port Augusta,Known
+Whyalla,-33.00991206,137.576689851,South Australia,Whyalla Barson,Geoscience Australia
+Basslink Cable terminal,-41.0426690629999,146.869144085,Tasmania,Low Head,Geoscience Australia
+Hobart Terminal,-42.8821,147.3272,Tasmania,Hobart,Known
+Launceston Terminal,-41.4332,147.1441,Tasmania,Launceston,Known
+Meadowbank,-42.609519002,146.846334489,Tasmania,Meadowbank,Geoscience Australia
+Tarraleah,-42.300375561,146.457790639,Tasmania,Tarraleah,Geoscience Australia
+Tungatin,-42.2976774699999,146.457214611,Tasmania,Tarraleah,Geoscience Australia
+Ararat,-37.838847,143.245636,Victoria,Ararat,AEMO Victoria
+Axedale,-36.725225,144.54545,Victoria,Axedale,AEMO Victoria
+Ballarat,-37.885608,143.921856,Victoria,Ballarat,AEMO Victoria
+Bendigo,-37.037044,144.253589,Victoria,Bendigo,AEMO Victoria
+Berrybank,-36.784025,143.45285,Victoria,Berrybank,AEMO Victoria
+Bookaar,-38.1333,143.1,Victoria,Bookaar,AEMO Victoria
+Brooklyn,-37.772669,144.861786,Victoria,Brooklyn,AEMO Victoria
+Bulgana,-37.825967,142.985036,Victoria,Bulgana,AEMO Victoria
+Carwarp,-37.999733,142.234786,Victoria,Carwarp,AEMO Victoria
+Clover,-36.7857703559999,147.219451235,Victoria,Bogong,Geoscience Australia
+Cranbourne,-34.499106,145.266433,Victoria,Cranbourne,AEMO Victoria
+Cressy,-37.120567,143.752064,Victoria,Cressy,AEMO Victoria
+Crowlands,-37.4333,143.0833,Victoria,Crowlands,AEMO Victoria
+Dederang,-37.777564,146.990814,Victoria,Dederang,AEMO Victoria
+Deer Park,-37.729953,144.735572,Victoria,Deer Park,AEMO Victoria
+East Rowville,-37.825192,145.236342,Victoria,East Rowville,AEMO Victoria
+Elaine,-37.223708,144.0,Victoria,Elaine,AEMO Victoria
+Fishermans Bend,-36.426831,144.929431,Victoria,Fishermans Bend,AEMO Victoria
+Frankston Terminal,-38.16294196,145.16846103,Victoria,Langwarrin,Geoscience Australia
+Glenrowan,-38.082625,146.0,Victoria,Glenrowan,AEMO Victoria
+Gnarwarre,-38.007833,144.0,Victoria,Gnarwarre,AEMO Victoria
+Golden Plains,-38.082625,144.338497,Victoria,Golden Plains,AEMO Victoria
+Goorambat East,-36.493503,145.925653,Victoria,Goorambat East,AEMO Victoria
+Haunted Gully,-36.722206,143.312614,Victoria,Haunted Gully,AEMO Victoria
+Hazelwood,-38.180772,146.428342,Victoria,Hazelwood,AEMO Victoria
+Hazelwood PS,-38.281172,146.392264,Victoria,Hazelwood PS,AEMO Victoria
+Heywood,-38.276922,141.639092,Victoria,Heywood,AEMO Victoria
+Horsham,-37.941128,142.247589,Victoria,Horsham,AEMO Victoria
+Jeeralang,-38.3667,146.4167,Victoria,Jeeralang,AEMO Victoria
+Kerang,-35.030217,143.933994,Victoria,Kerang,AEMO Victoria
+Kiamal,-35.73,142.293606,Victoria,Kiamal,AEMO Victoria
+Koorangie,-37.738239,143.753333,Victoria,Koorangie,AEMO Victoria
+Loy Yang PS,-37.877828,146.573861,Victoria,Loy Yang PS,AEMO Victoria
+Moorabool,-38.062219,144.296808,Victoria,Moorabool,AEMO Victoria
+Mortlake,-36.432683,142.670381,Victoria,Mortlake,AEMO Victoria
+Morwell,-37.840536,146.420847,Victoria,Morwell,AEMO Victoria
+Mount Beauty,-38.037,147.0,Victoria,Mount Beauty,AEMO Victoria
+Murra Warra,-38.257164,142.319606,Victoria,Murra Warra,AEMO Victoria
+Newport,-36.341389,144.894214,Victoria,Newport,AEMO Victoria
+Pine Lodge,-37.674203,145.570008,Victoria,Pine Lodge,AEMO Victoria
+Plumpton,-34.291842,144.734453,Victoria,Plumpton,AEMO Victoria
+Portland,-38.3458,141.6117,Victoria,Portland,AEMO Victoria
+Red Cliffs,-37.929281,142.239322,Victoria,Red Cliffs,AEMO Victoria
+Rowville,-37.9333,145.2333,Victoria,Rowville,AEMO Victoria
+Shepparton,-37.644483,145.414578,Victoria,Shepparton,AEMO Victoria
+Somerton,-37.6313563319999,144.952983348,Victoria,Somerton,Geoscience Australia
+South Morang,-37.928183,145.0,Victoria,South Morang,AEMO Victoria
+Springvale,-37.676164,145.0,Victoria,Springvale,AEMO Victoria
+Sydenham,-38.267861,144.747214,Victoria,Sydenham,AEMO Victoria
+Tarrone,-37.748069,142.181072,Victoria,Tarrone,AEMO Victoria
+Templestowe,-37.6937,145.170536,Victoria,Templestowe,AEMO Victoria
+Terang,-38.179169,142.932311,Victoria,Terang,AEMO Victoria
+Tyabb,-38.232969,145.201553,Victoria,Tyabb,AEMO Victoria
+Waubra,-34.784858,143.605914,Victoria,Waubra,AEMO Victoria
+Wemen,-37.800342,142.521461,Victoria,Wemen,AEMO Victoria
+West Melbourne,-36.154814,144.934853,Victoria,West Melbourne,AEMO Victoria
+Wodonga,-38.174139,146.950147,Victoria,Wodonga,AEMO Victoria
+Bluewaters,-33.3318622049999,116.23383155,Western Australia,Palmer,Geoscience Australia
+Cataby,-30.6516451809999,115.457653928,Western Australia,Cooljarloo,Geoscience Australia
+Cockburn Terminal,-32.2003091519999,115.776074823,Western Australia,Naval Base,Geoscience Australia
+Collgar,-31.5420752869999,118.456602576,Western Australia,Norpa,Geoscience Australia
+Collie,-33.340900715,116.261161243,Western Australia,Palmer,Geoscience Australia
+East Perth Terminal,-31.945646606,115.87899148,Western Australia,East Perth,Geoscience Australia
+Geraldton Terminal,-28.7786,114.6146,Western Australia,Geraldton,Known
+Guildford,-31.902078111,116.003371239,Western Australia,Hazelmere,Geoscience Australia
+Kwinana Power Partnership,-32.2231186609999,115.766310608,Western Australia,Kwinana Beach,Geoscience Australia
+Landwehr,-32.89878629,115.817034082,Western Australia,Wagerup,Geoscience Australia
+Merredin Terminal,-31.539639441,118.227438265,Western Australia,Merredin,Geoscience Australia
+Mount Lawley,-31.916655404,115.867388267,Western Australia,Inglewood,Geoscience Australia
+Mungarra,-28.890117502,115.118634973,Western Australia,West Casuarinas,Geoscience Australia
+Neerabup,-31.681789158,115.821965624,Western Australia,Pinjar,Geoscience Australia
+Northern,-31.8511804579999,115.892350712,Western Australia,Malaga,Geoscience Australia
+Oakley,-32.6470344969999,115.896123666,Western Australia,Fairbridge,Geoscience Australia
+Perth Terminal,-31.9505,115.8605,Western Australia,Perth,Known
+Pinjar,-31.5576615209999,115.822390195,Western Australia,Pinjar,Geoscience Australia
+Shotts,-33.3178645899999,116.275894248,Western Australia,Palmer,Geoscience Australia
+South Fremantle,-32.092071658,115.758723029,Western Australia,North Coogee,Geoscience Australia
+Three Springs,-29.519223607,115.796186428,Western Australia,Womarden,Geoscience Australia
+Wagerup,-32.916238134,115.922078907,Western Australia,Wagerup,Geoscience Australia
+Wells Terminal,-32.7172977719999,116.316536748,Western Australia,Mount Wells,Geoscience Australia
+West Kalgoorlie,-30.7813321199999,121.42400078,Western Australia,Feysville,Geoscience Australia
+Western Terminal,-31.9565995689999,115.790298216,Western Australia,Mount Claremont,Geoscience Australia

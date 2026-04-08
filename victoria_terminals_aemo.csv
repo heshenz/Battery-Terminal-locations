@@ -1,0 +1,66 @@
+code,name,latitude,longitude,operator,status
+ADTS,Axedale,36°43'30.81S,144°32'43.62E,,In operation
+ARTS,Ararat,37°50'19.85S,143°14'44.29E,AusNet,In operation
+BATS,Ballarat,37°53'8.19S,143°55'18.68E,Lumea,In operation
+BBTS,Berrybank,36°47'2.49S,143°27'10.26E,AusNet,In operation
+BETS,Bendigo,37°2'13.36S,144°15'12.92E,AusNet,In operation
+BGTS,Bulgana,37°49'33.48S,142°59'6.13E,AusNet,In operation
+BLTS,Brooklyn,37°46'21.61S,144°51'42.43E,AusNet,In operation
+CBTS,Cranbourne,34°29'56.78S,145°15'59.16E,AusNet,Proposed operational
+CPTS,Carwarp,37°59'59.04S,142°14'5.23E,Ausnet,In operation
+CRTS,Cressy,37°7'14.04S,143°45'7.43E,AusNet,In operation
+CWTS,Crowlands,,143°E,,Unknown
+DDTS,Dederang,37°46'39.23S,146°59'26.93E,Lumea,In operation
+DPTS,Deer Park,37°43'47.83S,144°44'8.06E,,In operation
+ELTS,Elaine,37°13'25.35S,144°E,AusNet,In operation
+ERTS,East Rowville,37°49'30.69S,145°14'10.83E,AusNet,In operation
+FBTS,Fishermans Bend,36°25'36.59S,144°55'45.95E,AusNet,Proposed operational
+GETS,Goorambat East,36°29'36.61S,145°55'32.35E,AusNet,In operation
+GNTS,Glenrowan,38°4'57.45S,146°E,AusNet,In operation
+GPTS,Golden Plains,38°4'57.45S,144°20'18.59E,AusNet,In operation
+GWTS,Gnarwarre,38°0'28.20S,144°E,AusNet,In operation
+HGTS,Haunted Gully,36°43'19.94S,143°18'45.41E,AusNet,In operation
+HOTS,Horsham,37°56'28.06S,142°14'51.32E,AusNet,In operation
+HWPS,Hazelwood PS,38°16'52.22S,146°23'32.15E,AusNet,In operation
+HWTS,Hazelwood,38°10'50.78S,146°25'42.03E,AusNet,In operation
+HYTS,Heywood,38°16'36.92S,141°38'20.73E,AusNet,In operation
+JLTS,Jeeralang,,146°25'28.14E,,Unknown
+KGTS,Kerang,35°1'48.78S,143°56'2.38E,Lumea,In operation
+KMTS,Kiamal,35°43'48.00S,142°17'36.98E,AusNet,In operation
+KOTS,Koorangie,37°44'17.66S,143°45'12.00E,AusNet,In operation
+LYPS,Loy Yang PS,37°52'40.18S,146°34'25.90E,AusNet,In operation
+MBTS,Mount Beauty,38°2'13.20S,147°E,AusNet,In operation
+MLTS,Moorabool,38°3'43.99S,144°17'48.51E,AusNet,In operation
+MOPS,Mortlake,36°25'57.66S,142°40'13.37E,AusNet,In operation
+MRTS,Murra Warra,38°15'25.79S,142°19'10.58E,AusNet,In operation
+MWTS,Morwell,37°50'25.93S,146°25'15.05E,AusNet,In operation
+NPSD,Newport,36°20'29.00S,144°53'39.17E,AusNet,Proposed operational
+PLTS,Pine Lodge,37°40'27.13S,145°34'12.03E,Lumea,Proposed operational
+PRTS,Plumpton,34°17'30.63S,144°44'4.03E,AusNet,In operation
+RCTS,Red Cliffs,37°55'45.41S,142°14'21.56E,AusNet,In operation
+ROTS,Rowville,,145°13'38.22E,,Unknown
+SHTS,Shepparton,37°38'40.14S,145°24'52.48E,AusNet,In operation
+SMTS,South Morang,37°55'41.46S,145°E,AusNet,In operation
+SVTS,Springvale,37°40'34.19S,145°E,AusNet,In operation
+SYTS,Sydenham,38°16'4.30S,144°44'49.97E,AusNet,In operation
+TBTS,Tyabb,38°13'58.69S,145°12'5.59E,AusNet,In operation
+TGTS,Terang,38°10'45.01S,142°55'56.32E,AusNet,In operation
+TRTS,Tarrone,37°44'53.05S,142°10'51.86E,AusNet,In operation
+TSTS,Templestowe,37°41'37.32S,145°10'13.93E,AusNet,In operation
+WBTS,Waubra,34°47'5.49S,143°36'21.29E,AusNet,In operation
+WETS,Wemen,37°48'1.23S,142°31'17.26E,AusNet,In operation
+WMTS,West Melbourne,36°9'17.33S,144°56'5.47E,AusNet,In operation
+WOTS,Wodonga,38°10'26.90S,146°57'0.53E,AusNet,In operation
+BXTS,(TBC),,,,Active
+BKTS,Bookaar,,,,Active
+BNTS,Benalla,,,,Active
+CATS,Cooba,,,,Active
+DKTS,Docker,,,,Active
+DLTS,Delburn,,,,Active
+EMTS,East Mortlake,,,,Active
+LMTS,Learmonth,,,,Active
+LRTS,Little River,,,,Active
+POTS,Portland,,,,Active
+RUTS,Rushworth,,,,Active
+RYTS,Raywood,,,,Active
+YYTS,You Yangs,,,,Unknown
