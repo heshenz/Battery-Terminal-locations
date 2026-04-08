@@ -218,9 +218,7 @@ battery_storage_project/
 ├── all_australian_terminals.csv        # Input terminal data
 ├── victoria_terminals_aemo.csv         # Additional Victoria data
 ├── Australia_terminals.csv             # Processed terminals (optional)
-├── Australia_terminals_map.html        # Terminals-only map (optional)
-├── archive/                            # Old files (backup)
-└── clean_workspace/                    # Organized workspace (optional)
+
 ```
 
 ## Generated Files (After Running Scripts)
@@ -235,7 +233,7 @@ battery_storage_project/
 ```
 
 ## Quick Commands
-
+just click run.bat for windows and run.sh for linux.
 ### One-line execution (Linux/macOS):
 ```bash
 pip3 install pandas && python3 update_coords_FINAL.py && python3 create_final_map.py && xdg-open FINAL_COMPLETE_MAP.html
