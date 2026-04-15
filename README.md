@@ -260,4 +260,5 @@ For issues or questions:
 
 ## License
 
-This project is for educational and research purposes. Data sources are publicly available.
+This project is licensed under the MIT License.  
+You may use it for personal and commercial purposes, provided you keep the original copyright and license notice.
