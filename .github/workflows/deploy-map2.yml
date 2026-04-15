@@ -41,6 +41,7 @@ jobs:
         run: |
           python update_coords_FINAL.py
           python create_final_map.py
+          mv FINAL_COMPLETE_MAP.html index.html   # <-- add this line
 
       - name: Upload static site as an artifact
         uses: actions/upload-pages-artifact@v3
